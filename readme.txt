@@ -42,8 +42,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
 
-- None. I addressed issues that appeared and kept semantic headings, alt text, and clear link text.
-(If any warnings remain after checking, I will list them here with rationale.)
+- None.
 
 4. How long, in hours, did it take you to complete this assignment?
 
